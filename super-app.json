@@ -1,0 +1,27 @@
+[
+    {
+        "id": "com.bacbntdev.caculator",
+        "code": "calculator_superapp",
+        "name": {
+            "en": "Calculator",
+            "vi": "Máy tính"
+        },
+        "icon": "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png",
+        "status": "ON",
+        "sortOrder": 0,
+        "screen": "MyScreen"
+    },
+    {
+        "id": "com.bacbntdev.note",
+        "code": "note_superapp",
+        "url": "https://bachbntdev.web.app/",
+        "name": {
+            "en": "Note",
+            "vi": "Ghi chú"
+        },
+        "icon": "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png",
+        "status": "ON",
+        "sortOrder": 1,
+        "screen": "WebView"
+    }
+]
