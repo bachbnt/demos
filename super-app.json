@@ -6,7 +6,7 @@
         "icon": "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png",
         "status": "ON",
         "sortOrder": 0,
-        "screen": "MyScreen"
+        "screen": "/calculator"
     },
     {
         "id": "com.bacbntdev.note",
@@ -16,6 +16,6 @@
         "icon": "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png",
         "status": "ON",
         "sortOrder": 1,
-        "screen": "WebView"
+        "screen": "/web_view"
     }
 ]
