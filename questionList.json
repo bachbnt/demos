@@ -1,5 +1,4 @@
-{
-  "questionList": [
+[
     {
       "question": "What is the capital of France?",
       "options": ["London", "Paris", "New York", "Sydney"],
@@ -26,4 +25,3 @@
       "answerIndex": 0
     }
   ]
-}
